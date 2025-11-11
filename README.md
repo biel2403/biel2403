@@ -33,7 +33,7 @@ Atuar como **desenvolvedor júnior** em uma empresa onde eu possa:
 
 ### 📫 Contato
 📧 **gabriel.alves@email.com**  
-💼 [LinkedIn](www.linkedin.com/in/gabriel-alves-5b6572256)   
+💼 [LinkedIn](https://www.linkedin.com)[www.linkedin.com/in/gabriel-alves-5b6572256]   
 🐙 [GitHub](https://github.com/biel2403)
 
 ---
