@@ -19,8 +19,6 @@ Gosto de criar projetos práticos, com foco em lógica, organização e clareza 
   Aplicativo de terminal em Python para cadastro e controle de estoque.  
   Simples, funcional e organizado — ideal pra demonstrar estrutura e lógica.
 
-*(coloque aqui outros projetos quando quiser — posso te ajudar a formatar depois!)*
-
 ---
 
 ### 🎯 Objetivo profissional
@@ -32,7 +30,7 @@ Atuar como **desenvolvedor júnior** em uma empresa onde eu possa:
 ---
 
 ### 📫 Contato
-📧 **gabriel.alves@email.com**  
+📧 **gabrielalves3690@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-alves-5b6572256/)   
 🐙 [GitHub](https://github.com/biel2403)
 
