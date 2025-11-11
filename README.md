@@ -15,7 +15,7 @@ Gosto de criar projetos práticos, com foco em lógica, organização e clareza 
 ---
 
 ### 🚀 Projetos em destaque
-- 🧰 [**Cadastro de Itens**](https://github.com/seuusuario/cadastro-de-itens):  
+- 🧰 [**Cadastro de Itens**]([https://github.com/biel2403/Cadastro-de-Itens]):  
   Aplicativo de terminal em Python para cadastro e controle de estoque.  
   Simples, funcional e organizado — ideal pra demonstrar estrutura e lógica.
 
