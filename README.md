@@ -15,7 +15,7 @@ Gosto de criar projetos práticos, com foco em lógica, organização e clareza 
 ---
 
 ### 🚀 Projetos em destaque
-- 🧰 [**Cadastro de Itens**]([https://github.com/biel2403/Cadastro-de-Itens]):  
+- 🧰 [**Cadastro de Itens**](https://github.com/biel2403/Cadastro-de-Itens):  
   Aplicativo de terminal em Python para cadastro e controle de estoque.  
   Simples, funcional e organizado — ideal pra demonstrar estrutura e lógica.
 
@@ -33,8 +33,8 @@ Atuar como **desenvolvedor júnior** em uma empresa onde eu possa:
 
 ### 📫 Contato
 📧 **gabriel.alves@email.com**  
-💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*  
-🐙 [GitHub](https://github.com/seuusuario)
+💼 [LinkedIn](www.linkedin.com/in/gabriel-alves-5b6572256)   
+🐙 [GitHub](https://github.com/biel2403)
 
 ---
 
