@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Alves
 
-<!--
-**biel2403/biel2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória como **desenvolvedor Python**.  
+Gosto de criar projetos práticos, com foco em lógica, organização e clareza de código — transformando aprendizado em resultados reais.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e ferramentas
+- 🐍 **Python** (lógica, manipulação de dados, terminal apps)
+- 💾 **SQLite / MySQL** (fundamentos de banco de dados)
+- ⚙️ **Git & GitHub** (controle de versão e colaboração)
+- 🌐 **HTML / CSS** (base para front-end)
+- 🧠 **Boas práticas de código e estrutura de projetos**
+
+---
+
+### 🚀 Projetos em destaque
+- 🧰 [**Cadastro de Itens**](https://github.com/seuusuario/cadastro-de-itens):  
+  Aplicativo de terminal em Python para cadastro e controle de estoque.  
+  Simples, funcional e organizado — ideal pra demonstrar estrutura e lógica.
+
+*(coloque aqui outros projetos quando quiser — posso te ajudar a formatar depois!)*
+
+---
+
+### 🎯 Objetivo profissional
+Atuar como **desenvolvedor júnior** em uma empresa onde eu possa:
+- Colaborar em projetos reais,  
+- Continuar evoluindo tecnicamente,  
+- E contribuir com soluções simples, eficazes e bem estruturadas.
+
+---
+
+### 📫 Contato
+📧 **gabriel.alves@email.com**  
+💼 [LinkedIn](https://www.linkedin.com) *(adicione seu link aqui)*  
+🐙 [GitHub](https://github.com/seuusuario)
+
+---
+
+⭐ “Aprendizado constante, código limpo e curiosidade são as bases de um bom desenvolvedor.”
+
